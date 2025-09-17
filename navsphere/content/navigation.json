@@ -1,15 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "3",
-      "title": "Mozilla Firefox",
-      "icon": "Folder",
-      "items": [],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
-    },
-    {
       "id": "4",
       "title": "From Google Chrome",
       "icon": "Folder",
