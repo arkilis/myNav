@@ -1,15 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "4",
-      "title": "From Google Chrome",
-      "icon": "Folder",
-      "items": [],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
-    },
-    {
       "id": "5",
       "title": "SessionSync",
       "icon": "Folder",
