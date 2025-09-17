@@ -1,3 +1,91 @@
 {
-  "navigationItems": []
+  "navigationItems": [
+    {
+      "id": "1",
+      "title": "开发",
+      "icon": "Folder",
+      "items": [
+        {
+          "id": "1_i1",
+          "title": "Meiji",
+          "href": "http://arkilis.quickconnect.to/",
+          "description": "",
+          "icon": "https://arkilis.quickconnect.to/favicon.8f5fa591b187b2297da55b6023f86d0f.ico",
+          "enabled": true
+        },
+        {
+          "id": "1_i2",
+          "title": "Objective-C编码规范[译] - 简书",
+          "href": "http://www.jianshu.com/p/8b76814b3663",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "1_i3",
+          "title": "Recent Tags",
+          "href": "place:type=6&sort=14&maxResults=10",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "2",
+      "title": "电商",
+      "icon": "Folder",
+      "items": [],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "3",
+      "title": "加密货币",
+      "icon": "Folder",
+      "items": [
+        {
+          "id": "3_i1",
+          "title": "BraveNewWorld",
+          "href": "http://192.168.2.254:5000/webman/index.cgi",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "3_i2",
+          "title": "Go to console",
+          "href": "https://console.firebase.google.com/",
+          "description": "",
+          "icon": "fake-favicon-uri:https://console.firebase.google.com/",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    },
+    {
+      "id": "4",
+      "title": "AI",
+      "icon": "Folder",
+      "items": [
+        {
+          "id": "4_i1",
+          "title": "Hotpot Design",
+          "href": "https://hotpot.ai/design/ipad_pro?id=8",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": [],
+      "description": "",
+      "enabled": true
+    }
+  ]
 }
