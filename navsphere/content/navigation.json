@@ -1,83 +1,222 @@
 {
   "navigationItems": [
     {
-      "id": "1",
+      "id": "dev",
       "title": "开发",
       "icon": "Folder",
       "items": [
         {
-          "id": "1_i1",
-          "title": "Meiji",
-          "href": "http://arkilis.quickconnect.to/",
+          "id": "dev_i1",
+          "title": "Cloudflare",
+          "href": "https://dash.cloudflare.com/",
           "description": "",
-          "icon": "https://arkilis.quickconnect.to/favicon.8f5fa591b187b2297da55b6023f86d0f.ico",
+          "icon": "https://dash.cloudflare.com/favicon-32x32.png",
           "enabled": true
         },
         {
-          "id": "1_i2",
-          "title": "Objective-C编码规范[译] - 简书",
-          "href": "http://www.jianshu.com/p/8b76814b3663",
+          "id": "dev_i2",
+          "title": "Figma",
+          "href": "https://www.figma.com/files/team/835404884171706566/drafts?fuid=835404882237503419",
+          "description": "",
+          "icon": "https://static.figma.com/app/icon/1/favicon.svg",
+          "enabled": true
+        },
+        {
+          "id": "dev_i3",
+          "title": "Lamda",
+          "href": "https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/functions/Stripe-Test-Checkout?tab=configure",
+          "description": "",
+          "icon": "fake-favicon-uri:https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/functions/Stripe-Test-Checkout?tab=configure",
+          "enabled": true
+        },
+        {
+          "id": "dev_i4",
+          "title": "Home",
+          "href": "https://play.google.com/console/u/0/developers/5485306344443638211/app-list?pli=1",
+          "description": "",
+          "icon": "fake-favicon-uri:https://play.google.com/console/u/0/developers/5485306344443638211/app-list?pli=1",
+          "enabled": true
+        },
+        {
+          "id": "dev_i5",
+          "title": "Play Console",
+          "href": "https://play.google.com/console/u/0/developers/5485306344443638211/app-list",
+          "description": "",
+          "icon": "fake-favicon-uri:https://play.google.com/console/u/0/developers/5485306344443638211/app-list",
+          "enabled": true
+        },
+        {
+          "id": "dev_i6",
+          "title": "App Privacy Policy Generator",
+          "href": "https://app-privacy-policy-generator.firebaseapp.com/",
+          "description": "",
+          "icon": "https://app-privacy-policy-generator.firebaseapp.com/logo.svg",
+          "enabled": true
+        },
+        {
+          "id": "dev_i7",
+          "title": "Freepik AI image generator - Free text-to-image generator",
+          "href": "https://www.freepik.com/pikaso/ai-image-generator?prompt=hotwheels&style=noStyle#from_element=landing_tti",
+          "description": "",
+          "icon": "https://fps.cdnpk.net/favicons/favicon-16x16.png",
+          "enabled": true
+        },
+        {
+          "id": "dev_i8",
+          "title": "Overview | RevenueCat",
+          "href": "https://app.revenuecat.com/overview",
+          "description": "",
+          "icon": "fake-favicon-uri:https://app.revenuecat.com/overview",
+          "enabled": true
+        },
+        {
+          "id": "dev_i9",
+          "title": "Cosplay 花铃 胜利女神 尤妮 | 涩图社",
+          "href": "https://setushe.pics/albums/3723cbec71a3863cdcc01219808ced5c",
+          "description": "",
+          "icon": "fake-favicon-uri:https://setushe.pics/albums/3723cbec71a3863cdcc01219808ced5c",
+          "enabled": true
+        },
+        {
+          "id": "dev_i10",
+          "title": "小米路由器",
+          "href": "http://192.168.2.104/cgi-bin/luci/;stok=7350f5f95051c567010004315088a5ab/web/apsetting/upgrade",
+          "description": "",
+          "icon": "fake-favicon-uri:http://192.168.2.104/cgi-bin/luci/;stok=7350f5f95051c567010004315088a5ab/web/apsetting/upgrade",
+          "enabled": true
+        },
+        {
+          "id": "dev_i11",
+          "title": "SaltTiger | 每天一本编程书，每天进步一点点",
+          "href": "https://salttiger.com/",
           "description": "",
           "icon": "",
           "enabled": true
         },
         {
-          "id": "1_i3",
-          "title": "Recent Tags",
-          "href": "place:type=6&sort=14&maxResults=10",
+          "id": "dev_i12",
+          "title": "eBay Developers Program",
+          "href": "https://developer.ebay.com/my/auth/?env=production&index=0&auth_type=oauth",
           "description": "",
-          "icon": "",
+          "icon": "fake-favicon-uri:https://developer.ebay.com/my/auth/?env=production&index=0&auth_type=oauth",
           "enabled": true
-        }
-      ],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "2",
-      "title": "电商",
-      "icon": "Folder",
-      "items": [],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "3",
-      "title": "加密货币",
-      "icon": "Folder",
-      "items": [
+        },
         {
-          "id": "3_i1",
-          "title": "BraveNewWorld",
-          "href": "http://192.168.2.254:5000/webman/index.cgi",
+          "id": "dev_i13",
+          "title": "Free 孩子们 Music MP3 Download - Pixabay",
+          "href": "https://pixabay.com/zh/music/search/%E5%AD%A9%E5%AD%90%E4%BB%AC/",
           "description": "",
           "icon": "",
           "enabled": true
         },
         {
-          "id": "3_i2",
-          "title": "Go to console",
-          "href": "https://console.firebase.google.com/",
+          "id": "dev_i14",
+          "title": "ESP32, STM32, Arduino Simulator",
+          "href": "https://wokwi.com/projects/411258010793562113",
           "description": "",
-          "icon": "fake-favicon-uri:https://console.firebase.google.com/",
+          "icon": "fake-favicon-uri:https://wokwi.com/projects/411258010793562113",
           "enabled": true
-        }
-      ],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
-    },
-    {
-      "id": "4",
-      "title": "AI",
-      "icon": "Folder",
-      "items": [
+        },
         {
-          "id": "4_i1",
-          "title": "Hotpot Design",
-          "href": "https://hotpot.ai/design/ipad_pro?id=8",
+          "id": "dev_i15",
+          "title": "壁纸样机生成器 - 免费生成iPhone、iPad、Mac壁纸效果图 - 淘趣工坊",
+          "href": "https://www.taojuju.com/",
+          "description": "",
+          "icon": "fake-favicon-uri:https://www.taojuju.com/",
+          "enabled": true
+        },
+        {
+          "id": "dev_i16",
+          "title": "PNG贴纸切割器",
+          "href": "https://tools.xiaotie.top/sticker-crop.html",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "dev_i17",
+          "title": "MbFLfDeI.gif - Animated GIF optimizer and compressor",
+          "href": "https://ezgif.com/optimize/ezgif-8b8a5976feae6.gif",
+          "description": "",
+          "icon": "https://ezgif.com/favicon.ico",
+          "enabled": true
+        },
+        {
+          "id": "dev_i18",
+          "title": "Animation - LottieFiles Platform",
+          "href": "https://app.lottiefiles.com/animation/1364dfec-8ed6-4876-893c-7447895897b4?panel=download",
+          "description": "",
+          "icon": "https://app.lottiefiles.com/favicons/favicon-16x16.png",
+          "enabled": true
+        },
+        {
+          "id": "dev_i19",
+          "title": "Convert Lottie to GIF – free online converter – LottieFiles",
+          "href": "https://lottiefiles.com/lottie-to-gif",
+          "description": "",
+          "icon": "https://static.lottiefiles.com/favicons-new/favicon-16x16.png",
+          "enabled": true
+        },
+        {
+          "id": "dev_i20",
+          "title": "Recreate existing images in new versions and styles | Freepik AI",
+          "href": "https://www.freepik.com/pikaso/reimagine",
+          "description": "",
+          "icon": "https://fps.cdnpk.net/favicons/favicon-16x16.png",
+          "enabled": true
+        },
+        {
+          "id": "dev_i21",
+          "title": "Jules - AI",
+          "href": "https://jules.google.com/task",
+          "description": "",
+          "icon": "https://www.gstatic.com/labs-code/code-app/favicon-32x32.png",
+          "enabled": true
+        },
+        {
+          "id": "dev_i22",
+          "title": "iOS & Swift Learning Paths | Kodeco",
+          "href": "https://www.kodeco.com/ios/paths",
+          "description": "",
+          "icon": "https://www.kodeco.com/favicon-16x16.png",
+          "enabled": true
+        },
+        {
+          "id": "dev_i23",
+          "title": "In-App Subscriptions Made Easy – RevenueCat",
+          "href": "https://www.revenuecat.com/?utm_source=bing&utm_medium=cpc&utm_campaign=row_branded&utm_content=row_branded_exact&utm_ad=&utm_term=revenue%20cat&matchtype=e&device=c&GeoLoc=122613&placement=&network=o&campaign_id=520668646&adset_id=1313918766222209&ad_id=&hsa_acc=5477478064&hsa_cam=520668646&hsa_grp=1313918766222209&hsa_ad=&hsa_src=o&hsa_tgt=kwd-82120965716698:loc-9&hsa_kw=revenue%20cat&hsa_mt=e&hsa_net=adwords&hsa_ver=3&msclkid=641a2fa21e061493dadb48f42eac4a1d&utm_source=bing&utm_medium=cpc&utm_campaign=row_branded&utm_term=revenue%20cat&utm_content=row_branded_exact",
+          "description": "",
+          "icon": "fake-favicon-uri:https://www.revenuecat.com/?utm_source=bing&utm_medium=cpc&utm_campaign=row_branded&utm_content=row_branded_exact&utm_ad=&utm_term=revenue%20cat&matchtype=e&device=c&GeoLoc=122613&placement=&network=o&campaign_id=520668646&adset_id=1313918766222209&ad_id=&hsa_acc=5477478064&hsa_cam=520668646&hsa_grp=1313918766222209&hsa_ad=&hsa_src=o&hsa_tgt=kwd-82120965716698:loc-9&hsa_kw=revenue%20cat&hsa_mt=e&hsa_net=adwords&hsa_ver=3&msclkid=641a2fa21e061493dadb48f42eac4a1d&utm_source=bing&utm_medium=cpc&utm_campaign=row_branded&utm_term=revenue%20cat&utm_content=row_branded_exact",
+          "enabled": true
+        },
+        {
+          "id": "dev_i24",
+          "title": "AD Free PornHub video downloader - 9xbuddy.io",
+          "href": "https://9xbuddy.io/en/",
+          "description": "",
+          "icon": "https://9xbuddy.io/theme/homlisti/pic/favicon.ico",
+          "enabled": true
+        },
+        {
+          "id": "dev_i25",
+          "title": "telegram管家 bot chat id",
+          "href": "https://api.telegram.org/bot6211229906:AAGII6ZSN6YxI93qyyo7XkKIEyzt30tPtBc/getUpdates",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "dev_i26",
+          "title": "T5 Art Prompt Generator",
+          "href": "https://artgen.mitchellcurrie.com/",
+          "description": "",
+          "icon": "",
+          "enabled": true
+        },
+        {
+          "id": "dev_i27",
+          "title": "文本 API",
+          "href": "https://dot.mindreset.tech/docs/server/template/api/text_api",
           "description": "",
           "icon": "",
           "enabled": true
