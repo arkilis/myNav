@@ -1,12 +1,12 @@
 {
   "navigationItems": [
     {
-      "id": "dev",
+      "id": "1",
       "title": "开发",
       "icon": "Folder",
       "items": [
         {
-          "id": "dev_i1",
+          "id": "1_1",
           "title": "Cloudflare",
           "href": "https://dash.cloudflare.com/",
           "description": "",
@@ -14,7 +14,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i2",
+          "id": "1_2",
           "title": "Figma",
           "href": "https://www.figma.com/files/team/835404884171706566/drafts?fuid=835404882237503419",
           "description": "",
@@ -22,7 +22,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i3",
+          "id": "1_3",
           "title": "Lamda",
           "href": "https://ap-southeast-2.console.aws.amazon.com/lambda/home?region=ap-southeast-2#/functions/Stripe-Test-Checkout?tab=configure",
           "description": "",
@@ -30,7 +30,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i4",
+          "id": "1_4",
           "title": "Home",
           "href": "https://play.google.com/console/u/0/developers/5485306344443638211/app-list?pli=1",
           "description": "",
@@ -38,7 +38,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i5",
+          "id": "1_5",
           "title": "Play Console",
           "href": "https://play.google.com/console/u/0/developers/5485306344443638211/app-list",
           "description": "",
@@ -46,7 +46,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i6",
+          "id": "1_6",
           "title": "App Privacy Policy Generator",
           "href": "https://app-privacy-policy-generator.firebaseapp.com/",
           "description": "",
@@ -54,7 +54,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i7",
+          "id": "1_7",
           "title": "Freepik AI image generator - Free text-to-image generator",
           "href": "https://www.freepik.com/pikaso/ai-image-generator?prompt=hotwheels&style=noStyle#from_element=landing_tti",
           "description": "",
@@ -62,7 +62,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i8",
+          "id": "1_8",
           "title": "Overview | RevenueCat",
           "href": "https://app.revenuecat.com/overview",
           "description": "",
@@ -70,7 +70,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i9",
+          "id": "1_9",
           "title": "Cosplay 花铃 胜利女神 尤妮 | 涩图社",
           "href": "https://setushe.pics/albums/3723cbec71a3863cdcc01219808ced5c",
           "description": "",
@@ -78,7 +78,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i10",
+          "id": "1_10",
           "title": "小米路由器",
           "href": "http://192.168.2.104/cgi-bin/luci/;stok=7350f5f95051c567010004315088a5ab/web/apsetting/upgrade",
           "description": "",
@@ -86,7 +86,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i11",
+          "id": "1_11",
           "title": "SaltTiger | 每天一本编程书，每天进步一点点",
           "href": "https://salttiger.com/",
           "description": "",
@@ -94,7 +94,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i12",
+          "id": "1_12",
           "title": "eBay Developers Program",
           "href": "https://developer.ebay.com/my/auth/?env=production&index=0&auth_type=oauth",
           "description": "",
@@ -102,7 +102,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i13",
+          "id": "1_13",
           "title": "Free 孩子们 Music MP3 Download - Pixabay",
           "href": "https://pixabay.com/zh/music/search/%E5%AD%A9%E5%AD%90%E4%BB%AC/",
           "description": "",
@@ -110,7 +110,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i14",
+          "id": "1_14",
           "title": "ESP32, STM32, Arduino Simulator",
           "href": "https://wokwi.com/projects/411258010793562113",
           "description": "",
@@ -118,7 +118,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i15",
+          "id": "1_15",
           "title": "壁纸样机生成器 - 免费生成iPhone、iPad、Mac壁纸效果图 - 淘趣工坊",
           "href": "https://www.taojuju.com/",
           "description": "",
@@ -126,7 +126,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i16",
+          "id": "1_16",
           "title": "PNG贴纸切割器",
           "href": "https://tools.xiaotie.top/sticker-crop.html",
           "description": "",
@@ -134,7 +134,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i17",
+          "id": "1_17",
           "title": "MbFLfDeI.gif - Animated GIF optimizer and compressor",
           "href": "https://ezgif.com/optimize/ezgif-8b8a5976feae6.gif",
           "description": "",
@@ -142,7 +142,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i18",
+          "id": "1_18",
           "title": "Animation - LottieFiles Platform",
           "href": "https://app.lottiefiles.com/animation/1364dfec-8ed6-4876-893c-7447895897b4?panel=download",
           "description": "",
@@ -150,7 +150,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i19",
+          "id": "1_19",
           "title": "Convert Lottie to GIF – free online converter – LottieFiles",
           "href": "https://lottiefiles.com/lottie-to-gif",
           "description": "",
@@ -158,7 +158,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i20",
+          "id": "1_20",
           "title": "Recreate existing images in new versions and styles | Freepik AI",
           "href": "https://www.freepik.com/pikaso/reimagine",
           "description": "",
@@ -166,7 +166,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i21",
+          "id": "1_21",
           "title": "Jules - AI",
           "href": "https://jules.google.com/task",
           "description": "",
@@ -174,7 +174,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i22",
+          "id": "1_22",
           "title": "iOS & Swift Learning Paths | Kodeco",
           "href": "https://www.kodeco.com/ios/paths",
           "description": "",
@@ -182,7 +182,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i23",
+          "id": "1_23",
           "title": "In-App Subscriptions Made Easy – RevenueCat",
           "href": "https://www.revenuecat.com/?utm_source=bing&utm_medium=cpc&utm_campaign=row_branded&utm_content=row_branded_exact&utm_ad=&utm_term=revenue%20cat&matchtype=e&device=c&GeoLoc=122613&placement=&network=o&campaign_id=520668646&adset_id=1313918766222209&ad_id=&hsa_acc=5477478064&hsa_cam=520668646&hsa_grp=1313918766222209&hsa_ad=&hsa_src=o&hsa_tgt=kwd-82120965716698:loc-9&hsa_kw=revenue%20cat&hsa_mt=e&hsa_net=adwords&hsa_ver=3&msclkid=641a2fa21e061493dadb48f42eac4a1d&utm_source=bing&utm_medium=cpc&utm_campaign=row_branded&utm_term=revenue%20cat&utm_content=row_branded_exact",
           "description": "",
@@ -190,7 +190,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i24",
+          "id": "1_24",
           "title": "AD Free PornHub video downloader - 9xbuddy.io",
           "href": "https://9xbuddy.io/en/",
           "description": "",
@@ -198,7 +198,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i25",
+          "id": "1_25",
           "title": "telegram管家 bot chat id",
           "href": "https://api.telegram.org/bot6211229906:AAGII6ZSN6YxI93qyyo7XkKIEyzt30tPtBc/getUpdates",
           "description": "",
@@ -206,7 +206,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i26",
+          "id": "1_26",
           "title": "T5 Art Prompt Generator",
           "href": "https://artgen.mitchellcurrie.com/",
           "description": "",
@@ -214,7 +214,7 @@
           "enabled": true
         },
         {
-          "id": "dev_i27",
+          "id": "1_27",
           "title": "文本 API",
           "href": "https://dot.mindreset.tech/docs/server/template/api/text_api",
           "description": "",
