@@ -1,13 +1,3 @@
 {
-  "navigationItems": [
-    {
-      "id": "8",
-      "title": "Other Bookmarks",
-      "icon": "Folder",
-      "items": [],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
-    }
-  ]
+  "navigationItems": []
 }
