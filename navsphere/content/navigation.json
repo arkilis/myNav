@@ -1,24 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "6",
-      "title": "Uncategorized",
-      "icon": "Folder",
-      "items": [
-        {
-          "id": "6_rootlink_1",
-          "title": "Hotpot Design",
-          "href": "https://hotpot.ai/design/ipad_pro?id=8",
-          "description": "",
-          "icon": "",
-          "enabled": true
-        }
-      ],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
-    },
-    {
       "id": "7",
       "title": "Bookmarks Toolbar",
       "icon": "Folder",
