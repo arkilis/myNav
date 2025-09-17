@@ -1,15 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "1",
-      "title": "Mozilla Firefox",
-      "icon": "Folder",
-      "items": [],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
-    },
-    {
       "id": "2",
       "title": "Uncategorized",
       "icon": "Folder",
