@@ -1,15 +1,6 @@
 {
   "navigationItems": [
     {
-      "id": "7",
-      "title": "Bookmarks Toolbar",
-      "icon": "Folder",
-      "items": [],
-      "subCategories": [],
-      "description": "",
-      "enabled": true
-    },
-    {
       "id": "8",
       "title": "Other Bookmarks",
       "icon": "Folder",
